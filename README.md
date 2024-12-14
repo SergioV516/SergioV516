@@ -12,12 +12,6 @@ Our Projects:
 We work on a variety of projects, including:
 
 MyPersonal Valuables: A smart home inventory management app designed to help you keep track of your valuable items efficiently and securely.
-Get Involved
-
-
-- Fork our repositories and submit pull requests
-Report issues and suggest features
-Join discussions on our projects
 
 Contact Us: 
 Feel free to reach out to us at srvalenzuela@vappcreation.com or visit our website for more information.
